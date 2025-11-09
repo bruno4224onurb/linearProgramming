@@ -1,5 +1,5 @@
-## 📄 Documentação do Projeto
+## 📄 Project Documentation
 
-Para detalhes completos, veja nosso documento principal:
+For further details check our full documentation in portuguese:
 
-[**Clique aqui para ver o PDF**](https://drive.google.com/file/d/1NwxCsEXRWPINKqMOqfl5Ir_qcbmwyF3v/view?usp=drive_link)
+[**PDF Link to documentation**](https://drive.google.com/file/d/1NwxCsEXRWPINKqMOqfl5Ir_qcbmwyF3v/view?usp=drive_link)
